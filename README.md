@@ -1,4 +1,4 @@
-### Run by docker
+### Run by docker 
 ```bash
 sudo docker run \
  --volume ./:/data \
@@ -7,7 +7,7 @@ sudo docker run \
  developercyrus/docker-whisper file.mp3 file.mp3.srt
 ```
 
-### Run by CLi
+### Run by CLi 
 ```bash
 git clone https://github.com/developercyrus/docker-whisper
 pip install -r requirements.txt
